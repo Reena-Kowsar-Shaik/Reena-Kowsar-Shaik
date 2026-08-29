@@ -20,7 +20,7 @@ Streamlit • OpenCV • Scikit-learn • Git • GitHub
 **Web Technologies:**  
 HTML • CSS • JavaScript
 
-L
+
 
 ---
 
