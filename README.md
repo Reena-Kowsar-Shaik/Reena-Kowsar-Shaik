@@ -1,11 +1,10 @@
 # Hi there, I'm Reena 👋
 
-🎓 **B.Tech Graduate in Computer Science (AI & ML)**  
+🎓 **B.Tech Graduate in Computer Science **  
 💻 **Aspiring Python Developer | AI & Machine Learning Enthusiast**  
 🌱 Currently enhancing my skills in **Python Full Stack Development, Data Structures, and AI technologies**.  
 🚀 Passionate about building real-world applications using **Python, Machine Learning, NLP, and Computer Vision**.
 
----
 
 ## 🔧 Technical Skills
 
@@ -21,8 +20,7 @@ Streamlit • OpenCV • Scikit-learn • Git • GitHub
 **Web Technologies:**  
 HTML • CSS • JavaScript
 
-**Database:**  
-PostgreSQL
+L
 
 ---
 
@@ -36,7 +34,6 @@ PostgreSQL
 
 📄 **Resume Generator Web Application**
 
----
 
 ## 📜 Certifications
 
@@ -54,7 +51,7 @@ PostgreSQL
 - Data Structures & Algorithms
 - REST APIs
 
----
+
 
 ## 🌐 Connect with Me
 
@@ -84,6 +81,4 @@ PostgreSQL
 
 📧 **Email:** [reenakowsar05@gmail.com](mailto:reenakowsar05@gmail.com)
 
----
 
-⭐ **"Always learning, always building, and always ready for new challenges."**
