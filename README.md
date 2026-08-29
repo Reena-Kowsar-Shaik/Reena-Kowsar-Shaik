@@ -44,12 +44,7 @@ HTML • CSS • JavaScript
 
 ---
 
-## 🌱 Currently Learning
-
-- Python Full Stack Development
-- Advanced Python
-- Data Structures & Algorithms
-- REST APIs
+## 🌱 Currently undergoing Python Full Stack Development training at Codegnan, while strengthening my skills in Data Structures and AI technologies.
 
 
 
