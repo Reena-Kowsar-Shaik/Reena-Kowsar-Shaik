@@ -1,52 +1,89 @@
-Hi there, I'm Reena 👋
+# Hi there, I'm Reena 👋
 
-🎓 B.Tech Graduate in Computer Science (AI & ML)
-💻 Aspiring Python Developer | AI & Machine Learning Enthusiast
-🌱 Currently enhancing my skills in Python Full Stack Development, Data Structures, and AI technologies.
-🚀 Passionate about building real-world applications using Python, Machine Learning, NLP, and Computer Vision.
+🎓 **B.Tech Graduate in Computer Science (AI & ML)**  
+💻 **Aspiring Python Developer | AI & Machine Learning Enthusiast**  
+🌱 Currently enhancing my skills in **Python Full Stack Development, Data Structures, and AI technologies**.  
+🚀 Passionate about building real-world applications using **Python, Machine Learning, NLP, and Computer Vision**.
 
-🔧 Technical Skills
-Languages: Python, C, SQL
-AI/ML: Machine Learning, Deep Learning, NLP, Computer Vision
-Frameworks & Tools: Streamlit, OpenCV, Scikit-learn, Git, GitHub
-Web Technologies: HTML, CSS, JavaScript
-Database: PostgreSQL
+---
 
-💼 Projects
-🎥 Fusion-Based Video Summarization for YouTube Content Analysis
-🧠 Brain Tumor MRI Classification using CNN
-🌦️ Weather Forecast Application
-📄 Resume Generator Web Application
+## 🔧 Technical Skills
 
-📜 Certifications
-Python Essentials – Cisco
-AI Fundamentals – IBM SkillsBuild
-Introduction to Artificial Intelligence – Infosys Springboard
-Machine Learning Fundamentals – Infosys Springboard
+**Languages:**  
+Python • C • SQL
 
-🌱 Currently Learning
-Python Full Stack Development
-Advanced Python
-Data Structures & Algorithms
-REST APIs
+**AI / ML:**  
+Machine Learning • Deep Learning • NLP • Computer Vision
 
-📫 Connect with Me
-Email: reenakowsar05@gmail.com.com
+**Frameworks & Tools:**  
+Streamlit • OpenCV • Scikit-learn • Git • GitHub
 
-⭐ "Always learning, always building, and always ready for new challenges."
+**Web Technologies:**  
+HTML • CSS • JavaScript
 
+**Database:**  
+PostgreSQL
 
-<!--
-**Reena-05/Reena-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💼 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎥 **Fusion-Based Video Summarization for YouTube Content Analysis**
+
+🧠 **Brain Tumor MRI Classification using CNN**
+
+🌦️ **Weather Forecast Application**
+
+📄 **Resume Generator Web Application**
+
+---
+
+## 📜 Certifications
+
+- Python Essentials – Cisco
+- AI Fundamentals – IBM SkillsBuild
+- Introduction to Artificial Intelligence – Infosys Springboard
+- Machine Learning Fundamentals – Infosys Springboard
+
+---
+
+## 🌱 Currently Learning
+
+- Python Full Stack Development
+- Advanced Python
+- Data Structures & Algorithms
+- REST APIs
+
+---
+
+## 🌐 Connect with Me
+
+<a href="https://www.linkedin.com/in/reenakowsar">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Reena_kowsar22/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/reenakowsar05">
+<img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codegnan.me/reenakowsar05">
+<img src="https://img.shields.io/badge/CODEGNAN-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Reena-05">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 📫 Contact Me
+
+📧 **Email:** [reenakowsar05@gmail.com](mailto:reenakowsar05@gmail.com)
+
+---
+
+⭐ **"Always learning, always building, and always ready for new challenges."**
